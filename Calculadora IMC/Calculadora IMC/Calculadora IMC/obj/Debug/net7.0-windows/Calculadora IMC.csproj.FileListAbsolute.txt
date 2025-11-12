@@ -1,0 +1,18 @@
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\net7.0-windows\Calculadora IMC.exe
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\net7.0-windows\Calculadora IMC.deps.json
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\net7.0-windows\Calculadora IMC.runtimeconfig.json
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\net7.0-windows\Calculadora IMC.dll
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\net7.0-windows\Calculadora IMC.pdb
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.csproj.AssemblyReference.cache
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora_IMC.Form1.resources
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora_IMC.Properties.Resources.resources
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.csproj.GenerateResource.cache
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.AssemblyInfoInputs.cache
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.AssemblyInfo.cs
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.csproj.CoreCompileInputs.cache
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.dll
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\refint\Calculadora IMC.dll
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.pdb
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\Calculadora IMC.genruntimeconfig.cache
+D:\Maria Luísa M. de Medeiros DDS\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\net7.0-windows\ref\Calculadora IMC.dll
